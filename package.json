@@ -1,0 +1,13 @@
+{
+  "name": "math",
+  "version": "1.0.0",
+  "description": "A place to try mathy things",
+  "main": "index.js",
+  "repository": "https://github.com/jron82/math",
+  "author": "Ronald Jordan",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
